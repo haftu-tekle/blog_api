@@ -1,1 +1,4 @@
-
+venv/
+blogvenv/ #my virtualenvironment
+db.sqlite3
+__pycache__/
